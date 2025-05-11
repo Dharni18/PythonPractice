@@ -112,7 +112,6 @@ def replacewithindex2(arr):
             arr[i] = 'papaya'
     return arr
 
-
 fruits = ['orange', 'apple', 'pear', 'banana', 'kiwi', 'apple', 'banana']
 print(replacewithindex1(fruits))
 print(replacewithindex2(fruits))
